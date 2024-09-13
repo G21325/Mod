@@ -361,7 +361,7 @@ http://tv.mototvlive.net:8880/84747/84747/1400
 #EXTINF:-1 tvg-logo="v" group-title="SPORTS", A Sports 
 http://tv.mototvlive.net:8880/84747/84747/2496 
 
-
+#indian
 
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", COLORS CINEPLEX SUPERHIT HD
 http://opplextv.cyou:8080/live/773199/626227/66199.ts
@@ -402,6 +402,59 @@ https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7CfVCyN/20240816-213549.png" group-title="HINDI MOVIES", ZEE ANIMOL CINEMA
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema1/default/Zeeanmolcinema1.m3u8
 
+
+#kids
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8KWhDV6/20240803-102743.png" group-title="KIDS", DURONTO TV
+https://ia800601.us.archive.org/1/items/intro-fredflix1-1080p/intro-%40fredflix1080p.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yBYRgLt/20240813-063955.png" group-title="KIDS", RONGEEN TV
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png/revision/latest?cb=20210423103549 " group-title="KIDS", Khushboo Bangla 
+https://cdn3.pishow.tv/live/283/master.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1b4NB4N/20240813-063839.png" group-title="KIDS", NICK HINDI
+https://colorsscreen.com/live.php?id=545&extension=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zmDWZfN/20240813-063935.png" group-title="KIDS", NICK BANGLA
+https://ia800601.us.archive.org/1/items/intro-fredflix1-1080p/intro-%40fredflix1080p.mp4  
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8rzSwnH/20240803-101416.png" group-title="KIDS", SONIC HINDI
+http://tv.cloudcdn.me/live.ts?channelId=40476&uid=13603&deviceMac=00:1A:79:64:B4:A6
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8rzSwnH/20240803-101416.png" group-title="KIDS", SONIC BANGLA
+https://ia800601.us.archive.org/1/items/intro-fredflix1-1080p/intro-%40fredflix1080p.mp4  
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ys79Yrg/20240803-101434.png" group-title="KIDS", SONY YAY HINDI
+http://tv.cloudcdn.me/live.ts?channelId=78849&uid=8164&deviceMac=00:1A:79:17:D4:A1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/82r3MtN/image-Content-11161-j99h67u8-m1.png" group-title="KIDS", CARTOON NETWORK HINDI
+http://tv.cloudcdn.me/live.ts?channelId=244&uid=13603&deviceMac=00:1A:79:64:B4:A6
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1vMwvc6/20240803-103957.png" group-title="KIDS", WOW KIDS
+https://ia800601.us.archive.org/1/items/intro-fredflix1-1080p/intro-%40fredflix1080p.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8PfZWZW/image-Content-1356-j5tdnwmw-m1.png" group-title="KIDS", DISNY CHANNEL
+http://119.156.26.155:8000/play/a05u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L58W5JY/20240812-183727.png" group-title="KIDS", DISNY JR
+https://ia800601.us.archive.org/1/items/intro-fredflix1-1080p/intro-%40fredflix1080p.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wc95cbY/20240803-103733.png" group-title="KIDS", POGO
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F3XcWbG/20240803-103747.png" group-title="KIDS", GUBBARE
+https://epiconvh.s.llnwi.net/gubbare/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/br8260j/20240803-103819.png" group-title="KIDS", DISCOVERY KIDS
+https://dplus.gammacdn.workers.dev/videos/113.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="KIDS", HUNGAMA
+http://xtv.ooo:8080/live/927382370/837382809/150480.m3u8
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57985-khvdchrs-v2/imageContent-57985-khvdchrs-m2.png" group-title="KIDS", Gubbare
+https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlrq_vnnCkITjp-iHmIVcDFNId6kV_fwis_aum351XWvd88JllFxa1wnQq&s=10" group-title="DOCUMENTORY", Animal Planet 
 http://lifetvbd.xyz:8080/live/123/123/18.ts  
