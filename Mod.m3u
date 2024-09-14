@@ -107,11 +107,11 @@ http://176.119.29.52/live.ts?channelId=84&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926120317.png"group-title="AKASH GO",BTV
 http://lifetvbd.xyz:8080/live/123/123/74.ts
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926324363.png"group-title="AKASH GO",Somoy TV
-https://medialive.akash-go.com/out/v1/8f326d0273684f67bd1c3ae5b8dfee48/index.mpd
+https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=faSMwrv3jdsKnRbd_Kb3rg&expires=1726501373&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927447544.png"group-title="AKASH GO",ZEE BANGLA
-https://medialive.akash-go.com/out/v1/6f0c2ecf1fc24304a006c38e08662b3d/index.mpd
+https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?expires=1726501436&md5=Dm7awhh8OIVweshsTlmoFw&user=ff39d05fef0749028389f28943b73363
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926612080.png"group-title="AKASH GO",RTV HD
-https://medialive.akash-go.com/out/v1/033761f02abc44cc96b686d9b90ea40a/index.mpd
+https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8?md5=wuE_0uWtVjFu0SYxDe6A1A&expires=1726501468&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719925386622.png"group-title="AKASH GO",Cineplex HD
 https://medialive.akash-go.com/out/v1/db019fb82c8d4b9e971557e7cb1fd625/index.mpd
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926685888.png"group-title="AKASH GO",Colors Bangla
