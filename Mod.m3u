@@ -91,13 +91,13 @@ https://nowsports.in/sliv/stream.php?id=985663256&e=m3u8|Referer=https://nowspor
 
 
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719846556679.png"group-title="AKASH GO",Independent TV
-https://medialive.akash-go.com/out/v1/909029a03ea84e868c1ff72e6e452749/index.mpd
+https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=hpkJWvzvaUXa5Xj8ZIbxhA&expires=1726499766&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719845813149.png"group-title="AKASH GO",Ekattor HD
-https://medialive.akash-go.com/out/v1/1eec5c4527b14f70bb9580fa18c331e8/index.mpd
+https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=b6JDEsUY0ZR7UUIU-Sudxw&expires=1726499791&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719833976219.png"group-title="AKASH GO",Animal Planet
-https://medialive.akash-go.com/out/v1/f620035daf984daba989f80444a09d08/index.mpd
+https://raw.githubusercontent.com/Ferdos-Live-Tv/My-Host-Tv-Channel-/main/Animal%20planet.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719845011632.png",ATN News
-https://medialive.akash-go.com/out/v1/5dddba2c4d6242f8a97e86ea9e77a464/index.mpd
+https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=EjZb-lwi65W4D_hhSvs90Q&expires=1726499877&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719911502434.png"group-title="AKASH GO",Star Movies HD
 https://medialive.akash-go.com/out/v1/78469781a763488194e5bb57d885dd04/index.mpd
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719911893874.png"group-title="AKASH GO",NTV
