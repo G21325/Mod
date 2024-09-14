@@ -115,7 +115,7 @@ https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8?md5=wuE_0uWtVjFu0SYxDe6
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719925386622.png"group-title="AKASH GO",Cineplex HD
 
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926685888.png"group-title="AKASH GO",Colors Bangla
-https://hotflix-bd.online/hotflixbd/Colors_bangla/video.m3u8?token=b3d8d0910b7f7a4f20189308e0c9befbc574ef09-d71e0231b01bb772af34ed7b43de458a-1726296079-1726285279&remote=103.148.74.89
+https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_voot_MOB
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719925954547.png"group-title="AKASH GO",Colors HD
 
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926957023.png"group-title="AKASH GO",Disney Jr
@@ -127,9 +127,9 @@ https://hotflix-bd.online/hotflixbd/Colors_bangla/video.m3u8?token=b3d8d0910b7f7
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719985680308.png"group-title="AKASH GO",Nickelodeon Sonic
 
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720359542393.png"group-title="AKASH GO",Star Jalsha HD
-http://217.20.112.199/starjalshahd/index.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=116&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927885394.png"group-title="AKASH GO",Jalsha Movies
-http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8?token=2be3b471b82cd70d481ddcc9ceaa68e4  
+http://tv.cloudcdn.me/live.ts?channelId=117&uid=5284&deviceMac=00:1A:79:17:C0:71  
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927537752.png",Star PLUS
 http://tv.mototvlive.net:8880/84747/84747/1485
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720701862733.png"group-title="AKASH GO",Zee HD
