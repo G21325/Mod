@@ -148,57 +148,57 @@ http://tv.mototvlive.net:8880/84747/84747/1526
 #hotflix
 
 
-#EXTINF:-1 tvg-logo="https://hotflixbd.com/assets/images/laliga.png"group-title="Hotflixbd",
+#EXTINF:-1 tvg-logo="https://hotflixbd.com/assets/images/laliga.png"group-title="Hotflixbd",LALIGA
 https://cdn.hotflix-bd.online/laliga1/tracks-v1a1/mono.m3u8?remote=103.148.74.89&token=8323640e3658d331172040f2a7edfcbba689cb7d-bd140cfb3ee75101b0bac25e0916f231-1726552404-1726541604
 
 
-#EXTINF:-1 tvg-logo="https://hotflixbd.com/assets/images/laliga.png"group-title="Hotflixbd",
+#EXTINF:-1 tvg-logo="https://hotflixbd.com/assets/images/laliga.png"group-title="Hotflixbd",LALIGA
 https://cdn3.hotflix-bd.online/seriea1/tracks-v1a1/mono.m3u8?remote=103.148.74.89&token=fabb3f56cff27f04b63821b78c52dc1c20baac90-655aaa2acae04f6b06f2b4ec3a96dfd0-1726552437-1726541637
 
-#EXTINF:-1 tvg-logo="https://hotflixbd.com/assets/images/TSports.png"group-title="Hotflixbd",
+#EXTINF:-1 tvg-logo="https://hotflixbd.com/assets/images/TSports.png"group-title="Hotflixbd",T SPORTS
 https://cdn2.hotflix-bd.online/T-Sports/tracks-v1a1/mono.m3u8?remote=103.148.74.89&token=524cc7269799d7510e1d6d72ff076aec74b9348c-1923d4f62286e3ba2dedca3d3782a8ac-1726552473-1726541673
 
-#EXTINF:-1 tvg-logo="https://hotflixbd.com/assets/images/astro-cricket.png"group-title="Hotflixbd",
+#EXTINF:-1 tvg-logo="https://hotflixbd.com/assets/images/astro-cricket.png"group-title="Hotflixbd",ASTRO CICKET
 https://hotflix-bd.online/hotflixbd/astro-cricket/video.m3u8?token=820df4cbc98caa7050830e4f55d2b2e288712cba-18e958144049387cadcf87e88db67640-1726552533-1726541733&remote=103.148.74.89
 
-#EXTINF:-1 tvg-logo="https://hotflixbd.com/assets/images/s-cricket.png"group-title="Hotflixbd",
+#EXTINF:-1 tvg-logo="https://hotflixbd.com/assets/images/s-cricket.png"group-title="Hotflixbd",Super sports cricket
 https://cdn.hotflix-bd.online/s-cricket/tracks-v1a1/mono.m3u8?remote=103.148.74.89&token=4c769a95c9205eff4a82990cb6c6609de988daff-fff45011329f978f057370ee3e0f1d42-1726552581-1726541781
 
-#EXTINF:-1 tvg-logo="https://hotflixbd.com/assets/images/sky-sports-cricket.png"group-title="Hotflixbd",
+#EXTINF:-1 tvg-logo="https://hotflixbd.com/assets/images/sky-sports-cricket.png"group-title="Hotflixbd",sky sports cricket
 https://cdn.hotflix-bd.online/sky-sports-cricket/tracks-v1a1/mono.m3u8?remote=103.148.74.89&token=8f80880d8f4e02c88075d9bf2d611effbf1458da-9d7ed8f1463f10b91e40f410fd3106c1-1726552670-1726541870
 
-#EXTINF:-1 tvg-logo="https://hotflixbd.com/assets/images/sports18.png"group-title="Hotflixbd",
+#EXTINF:-1 tvg-logo="https://hotflixbd.com/assets/images/sports18.png"group-title="Hotflixbd",sports 18
 https://hotflix-bd.online/hotflixbd/sports-18/video.m3u8?token=3d04240974f9aaf1849ea4296f4df4d955e92ff1-036ef132963e4a83a873dd66f21a6752-1726552700-1726541900&remote=103.148.74.89
 
-#EXTINF:-1 tvg-logo="https://hotflixbd.com/assets/images/willow-hd.png"group-title="Hotflixbd",
+#EXTINF:-1 tvg-logo="https://hotflixbd.com/assets/images/willow-hd.png"group-title="Hotflixbd",willow
 https://cdn.hotflix-bd.online/willow-cricket/tracks-v1a1/mono.m3u8?remote=103.148.74.89&token=1a1c7e54182ddb9caf6d4da4c22e30c2694478de-00157afa7a4abd02d85a4dffd298202d-1726552747-1726541947
 
 
-#EXTINF:-1 tvg-logo=""group-title="Hotflixbd",
+#EXTINF:-1 tvg-logo=""group-title="Hotflixbd",Star Sports 1
 https://cdn2.hotflix-bd.online/Star-Sports-1/tracks-v1/mono.m3u8?remote=103.148.74.89&token=e71761ff33f0347284f73f19c79923274bfd9ae9-bd6dbefa70ebd6fd1accd0419eb52213-1726579583-1726568783
 
 
-#EXTINF:-1 tvg-logo=""group-title="Hotflixbd",
+#EXTINF:-1 tvg-logo=""group-title="Hotflixbd",Star Sports 2
 https://cdn.hotflix-bd.online/Star-Sports2/tracks-v1a1/mono.m3u8?remote=103.148.74.89&token=0c5c27c740872f7154b920c2f8eb8c6aa3721f13-fcf4a256c6e8983cb08e7d0d06a384e0-1726579600-1726568800
 
 
-#EXTINF:-1 tvg-logo=""group-title="Hotflixbd",
+#EXTINF:-1 tvg-logo=""group-title="Hotflixbd",Star Sports 3
 https://cdn2.hotflix-bd.online/Star-Sports-3/video.m3u8?token=4a0e2ac46731d0f11963c2b384464a286951290a-ccf82566e48cfe04c1a7b92056afee96-1726579618-1726568818&remote=103.148.74.89
 
 
-#EXTINF:-1 tvg-logo=""group-title="Hotflixbd",
+#EXTINF:-1 tvg-logo=""group-title="Hotflixbd",GTV
 https://cdn2.hotflix-bd.online/GTV/tracks-v1a1/mono.m3u8?remote=103.148.74.89&token=99bba7be32c477a77b95f094184d775b7c24b5b0-12e09f75601512ea8e410b5d1baa04be-1726579626-1726568826
 
 
-#EXTINF:-1 tvg-logo=""group-title="Hotflixbd",
+#EXTINF:-1 tvg-logo=""group-title="Hotflixbd",ptv
 https://cdn2.hotflix-bd.online/PTV-Sports/tracks-v1a1/mono.m3u8?remote=103.148.74.89&token=a0c27a0cd5064163477fb136838b735124fbeee8-683fa28924f9d3caecab5fd4aaa09995-1726579668-1726568868
 
 
-#EXTINF:-1 tvg-logo=""group-title="Hotflixbd",
+#EXTINF:-1 tvg-logo=""group-title="Hotflixbd",Star Select 1
 https://cdn2.hotflix-bd.online/Star-Select-1/tracks-v1a1/mono.m3u8?remote=103.148.74.89&token=32b7368ffe81888f8452aaa4d9b437e2d7febf69-bf0e8f8e1374e9ad9867bc983f997bc3-1726579674-1726568874
 
 
-#EXTINF:-1 tvg-logo=""group-title="Hotflixbd",
+#EXTINF:-1 tvg-logo=""group-title="Hotflixbd",Star Select 2
 https://cdn2.hotflix-bd.online/Star-Select-2/video.m3u8?token=6b3abf652ff228c3efb6934b3e3061601ba627fb-cc5873031a308deb68ec6d2580dc7d60-1726579683-1726568883&remote=103.148.74.89
 
 
