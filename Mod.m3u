@@ -148,17 +148,17 @@ http://tv.mototvlive.net:8880/84747/84747/1526
 #hotflix
 
 
-#EXTINF:-1 tvg-logo=""group-title="Hotflixbd",
+#EXTINF:-1 tvg-logo="https://hotflixbd.com/assets/images/laliga.png"group-title="Hotflixbd",
 http://tv.mototvlive.net:8880/84747/84747/1526
 
 
-#EXTINF:-1 tvg-logo=""group-title="Hotflixbd",
+#EXTINF:-1 tvg-logo="https://hotflixbd.com/assets/images/laliga.png"group-title="Hotflixbd",
 http://tv.mototvlive.net:8880/84747/84747/1526
 
-#EXTINF:-1 tvg-logo=""group-title="Hotflixbd",
+#EXTINF:-1 tvg-logo="https://hotflixbd.com/assets/images/TSports.png"group-title="Hotflixbd",
 http://tv.mototvlive.net:8880/84747/84747/1526
 
-#EXTINF:-1 tvg-logo=""group-title="Hotflixbd",
+#EXTINF:-1 tvg-logo="https://hotflixbd.com/assets/images/astro-cricket.png"group-title="Hotflixbd",
 http://tv.mototvlive.net:8880/84747/84747/1526
 
 #EXTINF:-1 tvg-logo=""group-title="Hotflixbd",
