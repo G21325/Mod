@@ -175,7 +175,31 @@ https://cdn.hotflix-bd.online/willow-cricket/tracks-v1a1/mono.m3u8?remote=103.14
 
 
 #EXTINF:-1 tvg-logo=""group-title="Hotflixbd",
-http://tv.mototvlive.net:8880/84747/84747/1526
+https://cdn2.hotflix-bd.online/Star-Sports-1/tracks-v1/mono.m3u8?remote=103.148.74.89&token=e71761ff33f0347284f73f19c79923274bfd9ae9-bd6dbefa70ebd6fd1accd0419eb52213-1726579583-1726568783
+
+
+#EXTINF:-1 tvg-logo=""group-title="Hotflixbd",
+https://cdn.hotflix-bd.online/Star-Sports2/tracks-v1a1/mono.m3u8?remote=103.148.74.89&token=0c5c27c740872f7154b920c2f8eb8c6aa3721f13-fcf4a256c6e8983cb08e7d0d06a384e0-1726579600-1726568800
+
+
+#EXTINF:-1 tvg-logo=""group-title="Hotflixbd",
+https://cdn2.hotflix-bd.online/Star-Sports-3/video.m3u8?token=4a0e2ac46731d0f11963c2b384464a286951290a-ccf82566e48cfe04c1a7b92056afee96-1726579618-1726568818&remote=103.148.74.89
+
+
+#EXTINF:-1 tvg-logo=""group-title="Hotflixbd",
+https://cdn2.hotflix-bd.online/GTV/tracks-v1a1/mono.m3u8?remote=103.148.74.89&token=99bba7be32c477a77b95f094184d775b7c24b5b0-12e09f75601512ea8e410b5d1baa04be-1726579626-1726568826
+
+
+#EXTINF:-1 tvg-logo=""group-title="Hotflixbd",
+https://cdn2.hotflix-bd.online/PTV-Sports/tracks-v1a1/mono.m3u8?remote=103.148.74.89&token=a0c27a0cd5064163477fb136838b735124fbeee8-683fa28924f9d3caecab5fd4aaa09995-1726579668-1726568868
+
+
+#EXTINF:-1 tvg-logo=""group-title="Hotflixbd",
+https://cdn2.hotflix-bd.online/Star-Select-1/tracks-v1a1/mono.m3u8?remote=103.148.74.89&token=32b7368ffe81888f8452aaa4d9b437e2d7febf69-bf0e8f8e1374e9ad9867bc983f997bc3-1726579674-1726568874
+
+
+#EXTINF:-1 tvg-logo=""group-title="Hotflixbd",
+https://cdn2.hotflix-bd.online/Star-Select-2/video.m3u8?token=6b3abf652ff228c3efb6934b3e3061601ba627fb-cc5873031a308deb68ec6d2580dc7d60-1726579683-1726568883&remote=103.148.74.89
 
 
 #EXTINF:-1 tvg-logo=""group-title="Hotflixbd",
@@ -183,31 +207,7 @@ http://tv.mototvlive.net:8880/84747/84747/1526
 
 
 #EXTINF:-1 tvg-logo=""group-title="Hotflixbd",
-http://tv.mototvlive.net:8880/84747/84747/1526
-
-
-#EXTINF:-1 tvg-logo=""group-title="Hotflixbd",
-http://tv.mototvlive.net:8880/84747/84747/1526
-
-
-#EXTINF:-1 tvg-logo=""group-title="Hotflixbd",
-http://tv.mototvlive.net:8880/84747/84747/1526
-
-
-#EXTINF:-1 tvg-logo=""group-title="Hotflixbd",
-http://tv.mototvlive.net:8880/84747/84747/1526
-
-
-#EXTINF:-1 tvg-logo=""group-title="Hotflixbd",
-http://tv.mototvlive.net:8880/84747/84747/1526
-
-
-#EXTINF:-1 tvg-logo=""group-title="Hotflixbd",
-http://tv.mototvlive.net:8880/84747/84747/1526
-
-
-#EXTINF:-1 tvg-logo=""group-title="Hotflixbd",
-http://tv.mototvlive.net:8880/84747/84747/1526
+https://cdn.hotflix-bd.online/Ten1/tracks-v1a1/mono.m3u8?remote=103.148.74.89&token=b23dc49b621e96b05349b52cf2ee222ce1b9f82a-e04170780a1972a60bff1f24d4c53d80-1726579693-1726568893
 
 
 #EXTINF:-1 tvg-logo=""group-title="Hotflixbd",
