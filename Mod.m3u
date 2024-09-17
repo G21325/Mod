@@ -588,7 +588,7 @@ https://cdn3.pishow.tv/live/283/master.m3u8
 https://colorsscreen.com/live.php?id=545&extension=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmDWZfN/20240813-063935.png" group-title="KIDS", NICK BANGLA
-https://ia800601.us.archive.org/1/items/intro-fredflix1-1080p/intro-%40fredflix1080p.mp4  
+http://xtv.ooo:8080/live/98267/02727/150482.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8rzSwnH/20240803-101416.png" group-title="KIDS", SONIC HINDI
 http://tv.cloudcdn.me/live.ts?channelId=40476&uid=13603&deviceMac=00:1A:79:64:B4:A6
