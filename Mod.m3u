@@ -5,8 +5,11 @@ https://vhoichoi.viewlift.com/Renditions/20240918/1726653787189_88a8sna0ns9a8s7t
 #t
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="SE", mac sony aath 
-http://tv.cloudcdn.me/live/00:1A:79:A4:26:62/4280/44150.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="SONY", SONY AATH h2
+https://fredflix.shounwifi.net/Ferdos.php?id=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_aath/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="SONY", SONY SET HD
+http://tv.cloudcdn.me/live/00:1A:79:A4:26:62/4280/12356.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8rjsFNd/20240804-145610.png" group-title="SONY LIVE", SONY ENTERTAINMENT HD
 https://nowsports.in/sliv/stream.php?id=1100&e=.m3u8|Referer=https://nowsports.in/insurance/&key=@FREDFLIXCEO
@@ -471,4 +474,3 @@ https://cdn2.pishow.tv/live/141/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/7838/logo/240x240/mobile_logo_205245001655892068.png" group-title="MUSIC", ZOOM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
-
