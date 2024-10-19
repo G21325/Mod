@@ -5,12 +5,6 @@ https://vhoichoi.viewlift.com/Renditions/20240918/1726653787189_88a8sna0ns9a8s7t
 #t
 
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="SONY", SONY AATH h2
-https://fredflix.shounwifi.net/Ferdos.php?id=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_aath/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="SONY", SONY SET HD
-http://tv.cloudcdn.me/live/00:1A:79:A4:26:62/4280/12356.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8rjsFNd/20240804-145610.png" group-title="SONY LIVE", SONY ENTERTAINMENT HD
 https://nowsports.in/sliv/stream.php?id=1100&e=.m3u8|Referer=https://nowsports.in/insurance/&key=@FREDFLIXCEO
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HYhhk7T/20240803-110454.png" group-title="SONY LIVE", SONY SAB HD
@@ -73,80 +67,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 
 
 #Bangladeshi 
-
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/63/logo/240x240/mobile_logo_118855001673182388.png" group-title="BANGLADESH", BTV HD
-http://xtv.ooo:8080/live/98267/02727/245930.m3u8 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/1/logo/240x240/mobile_logo_310000001673183767.png" group-title="BANGLADESH", BTV WORLD
-http://xtv.ooo:8080/live/98267/02727/245922.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zPFbF67/20240826-230349.png" group-title="BANGLADESH", EKUSHEY TV HD
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/41/logo/240x240/mobile_logo_811238001673183089.png" group-title="BANGLADESH", NTV
-http://xtv.ooo:8080/live/98267/02727/245924.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/338/logo/240x240/mobile_logo_401499001655891091.png" group-title="BANGLADESH", RTV HD
-http://xtv.ooo:8080/live/98267/02727/245911.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png" group-title="BANGLADESH", CHANNEL I HD
-http://xtv.ooo:8080/live/98267/02727/245913.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/337/logo/240x240/mobile_logo_519481001656610377.png" group-title="BANGLADESH", BANGLA VISION HD
-https://4ytksrllvm.gpcdn.net/tv/Bangla_Vision/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/236/logo/240x240/mobile_logo_341242001655891063.png" group-title="BANGLADESH", BOISHAKHI TV HD
-https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/39/logo/240x240/mobile_logo_569553001668421527.png" group-title="BANGLADESH", DESH TV
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@livedeshtv
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/42/logo/240x240/mobile_logo_554709001657185722.png" group-title="BANGLADESH", ATN BANGLA HD
-http://xtv.ooo:8080/live/98267/02727/245909.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/42/logo/240x240/mobile_logo_554709001657185722.png" group-title="BANGLADESH", ATN NEWS HD
-http://xtv.ooo:8080/live/98267/02727/245905.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/339/logo/240x240/mobile_logo_897303001655891103.png" group-title="BANGLADESH", MY TV HD
-https://mytvbangla.com/0.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/368/logo/240x240/mobile_logo_784215001656610543.png" group-title="BANGLADESH", MOHONA TV HD
-http://xtv.ooo:8080/live/98267/02727/245920.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/374/logo/240x240/mobile_logo_179345001655891258.png" group-title="BANGLADESH", BIJOY TV HD
-http://xtv.ooo:8080/live/98267/02727/245946.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png" group-title="BANGLADESH", SOMOY TV HD
-https://raw.githubusercontent.com/Ferdos-Live-Tv/My-Host-Tv-Channel-/main/Somoy%20tv.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/40/logo/240x240/mobile_logo_819689001655890845.png" group-title="BANGLADESH", INDEPENDENT TV
-http://xtv.ooo:8080/live/98267/02727/245916.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/g4jPX7R/20240826-230429.png" group-title="BANGLADESH", WEB|MAASRANGA TV HD
-https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/g4jPX7R/20240826-230429.png" group-title="BANGLADESH", MAASRANGA TV HD
-http://xtv.ooo:8080/live/98267/02727/245904.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/9/logo/240x240/mobile_logo_363996001656610763.png" group-title="BANGLADESH", CHANNEL 9 HD
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/52/logo/240x240/mobile_logo_262737001655890931.png" group-title="BANGLADESH", CHANNEL 24 HD
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@channel24digital
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png" group-title="BANGLADESH", EKATTOR TV HD
-http://xtv.ooo:8080/live/98267/02727/245915.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/25/logo/240x240/mobile_logo_913146001673185595.png" group-title="BANGLADESH", ASIAN TV HD
-https://mtlivestream.com/asian/ytlive/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dBbTPtQ/20240826-230616.png" group-title="BANGLADESH", SATV HD
-http://176.119.29.52/live.ts?channelId=114&uid=3960&deviceMac=00:1A:79:09:AC:16
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png" group-title="BANGLADESH", JAMUNA TV
-http://xtv.ooo:8080/live/98267/02727/245917.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kqF2kdy/20240826-230650.png" group-title="BANGLADESH", DEEPTO TV HD
-https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8?
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/335/logo/240x240/mobile_logo_946452001655891077.png" group-title="BANGLADESH", DBC NEWS
-http://xtv.ooo:8080/live/98267/02727/245914.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kyxby2Q/20240826-230739.png" group-title="BANGLADESH", MAC|NEWS 24 HD
-http://176.119.29.52/live.ts?channelId=107&uid=13603&deviceMac=00:1A:79:64:B4:A6
-#EXTINF:-1 tvg-logo="g" group-title="BANGLADESH", CHANNEL 9 HD
-http://xtv.ooo:8080/live/98267/02727/245902.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kyxby2Q/20240826-230739.png" group-title="BANGLADESH", NEWS 24 HD
-http://xtv.ooo:8080/live/98267/02727/245903.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png" group-title="BANGLADESH", NAGORIK TV
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/375/logo/240x240/mobile_logo_453885001655891270.png" group-title="BANGLADESH", BANGLA TV
-https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mHn2Zbm/20240826-230932.png" group-title="BANGLADESH", BANGLA TV EUROPE
-https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/692/logo/240x240/mobile_logo_317599001655891632.png" group-title="BANGLADESH", ANANDA TV
-https://livess.ncare.live/live-orgin/anandatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/12282/logo/240x240/mobile_logo_671378001663674667.png" group-title="BANGLADESH", MOVIE BANGLA
-http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTM3U #EXTINF:-1 ,BTV HD https://static.jagobd.com.bd/live-orgin/btvbd-office-sg.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,Ekushey TV https://static.jagobd.com.bd/live-orgin/ekusheytv-8-org.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,Ekattor TV https://static.jagobd.com.bd/live-orgin/ekattor.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,Discover Pakistan TV https://static.jagobd.com.bd/live-orgin/discoverpakistan.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,Deepto TV https://static.jagobd.com.bd/live-orgin/deeptotv.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,Deen TV UK https://static.jagobd.com.bd/live-orgin/deentv.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,DBC News https://static.jagobd.com.bd/live-orgin/dbcnews.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,Asian TV https://static.jagobd.com.bd/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,Ananda TV https://static.jagobd.com.bd/live-orgin/anandatv.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,Colosal TV https://static.jagobd.com.bd/live-orgin/colosal.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,Channel I https://static.jagobd.com.bd/live-orgin/channeli-8-org.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,Channel Europe https://static.jagobd.com.bd/live-orgin/channeleurope.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,CGTN News https://static.jagobd.com.bd/live-orgin/cgtn.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,CGTN Documentary https://static.jagobd.com.bd/live-orgin/cgtndoc.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,Boishakhi TV https://static.jagobd.com.bd/live-orgin/boishakhitv-org.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,Biswa Bangla 24 https://static.jagobd.com.bd/live-orgin/biswabanglatv.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,ATN News https://static.jagobd.com.bd/live-orgin/bijoy00.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,Banglavision HD https://static.jagobd.com.bd/live-orgin/banglav000.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,Bangla TV https://static.jagobd.com.bd/live-orgin/banglatvhd.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,Bangla 24 Canada https://static.jagobd.com.bd/live-orgin/b24c.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,ATN Music https://static.jagobd.com.bd/live-orgin/atnmusic.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,ETen Prime http://static.jagobd.com.bd/live-orgin/tenprime.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,ATN Islamic TV https://static.jagobd.com.bd/live-orgin/atnislamictv.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,ATN Bangla UK https://static.jagobd.com.bd/live-orgin/atnbanglauk-off.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,ATN Bangla https://static.jagobd.com.bd/live-orgin/atnbd-8-org.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,Amar Bangla https://static.jagobd.com.bd/live-orgin/amarbanglatv.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,Voice of America https://static.jagobd.com.bd/live-orgin/voa.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,Varendra TV https://static.jagobd.com.bd/live-orgin/varendratv.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,V2BEAT TV https://static.jagobd.com.bd/live-orgin/v2beattv.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,TV ONE UK https://static.jagobd.com.bd/live-orgin/tvoneuksni.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,Time Television US https://static.jagobd.com.bd/live-orgin/timetvusa.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,The Channel TV https://static.jagobd.com.bd/live-orgin/thechanneltv.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,Somoy TV https://static.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,Channel 24 https://static.jagobd.com.bd/live-orgin/channel24-sg-e8e.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,SATV https://static.jagobd.com.bd/live-orgin/satvoff5666.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,RTV HD https://static.jagobd.com.bd/live-orgin/rtv-sg.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,MY TV https://static.jagobd.com.bd/live-orgin/mytv-up-off.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,Rajdhani TV https://static.jagobd.com.bd/live-orgin/rajdhanitv.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,NTV Europe https://static.jagobd.com.bd/live-orgin/ntvuk00332211.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,NRB TV https://static.jagobd.com.bd/live-orgin/nrb-eu.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,NASA TV https://static.jagobd.com.bd/live-orgin/nasatv.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,NAN TV https://static.jagobd.com.bd/live-orgin/nantv.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,Movie Bangla https://static.jagobd.com.bd/live-orgin/moviebanglalink2.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,Millennium TV USA https://static.jagobd.com.bd/live-orgin/millenniumtv-odr-up2.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,Millennium TV 24 https://static.jagobd.com.bd/live-orgin/mnews24.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,Makkah TV https://static.jagobd.com.bd/live-orgin/makkahtv.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,Madani Channel Bangla https://static.jagobd.com.bd/live-orgin/madanitvbangla.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,JonmoBhumi TV https://static.jagobd.com.bd/live-orgin/jonmobhumitv.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,Jamuna TV https://static.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,Jagoroni TV https://static.jagobd.com.bd/live-orgin/jagoronitv.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,JagoNews24 TV https://static.jagobd.com.bd/live-orgin/jagonews24.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,Islam TV https://static.jagobd.com.bd/live-orgin/islamtv.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,Iqra Bangla https://static.jagobd.com.bd/live-orgin/iqrabanglatvoffice.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,iON TV UK https://static.jagobd.com.bd/live-orgin/iontvuk.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,Independent TV https://static.jagobd.com.bd/live-orgin/independent-8-org.stream/playlist.m3u8|referer=https://www.jagobd.com #EXTINF:-1 ,DW News https://static.jagobd.com.bd/live-orgin/dwnews.stream/playlist.m3u8|referer=https://www.jagobd.com
 
 
 
