@@ -2,13 +2,13 @@
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="SPORTS",SONY SPORTS TEN 1 HD
-https://bdixtv24.site/toffee/live.php?id=43dcec1011e7&e=.m3u8
+https://bdixtv24.site/toffee/live.php?id=43dcec1011e7&e=.m3u8|Referer=https://bdixtv24.site/toffee/
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="SPORTS",SONY SPORTS TEN 2 HD
-https://bdixtv24.site/toffee/live.php?id=abc6677968ef&e=.m3u8
+https://bdixtv24.site/toffee/live.php?id=abc6677968ef&e=.m3u8|Referer=https://bdixtv24.site/toffee/
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="SPORTS",SONY SPORTS TEN 3 HD
-https://bdixtv24.site/toffee/live.php?id=edc6a07e4754&e=.m3u8
+https://bdixtv24.site/toffee/live.php?id=edc6a07e4754&e=.m3u8|Referer=https://bdixtv24.site/toffee/
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="SPORTS",SONY SPORTS TEN 5 HD
-https://bdixtv24.site/toffee/live.php?id=fd6de8bd1666&e=.m3u8
+https://bdixtv24.site/toffee/live.php?id=fd6de8bd1666&e=.m3u8|Referer=https://bdixtv24.site/toffee/
 
 
 
@@ -16,7 +16,7 @@ https://bdixtv24.site/toffee/live.php?id=fd6de8bd1666&e=.m3u8
 
 #Bangladesi TV
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/208144/logo/240x240/mobile_logo_753607001730650681.png" group-title="LIVE", LIVE EVENT
-https://bdix-toffee.iptvbd.xyz/live.php?id=1c522062fe5d&e=.m3u8
+https://bdixtv24.site/toffee/live.php?id=3df423bd64aa&e=.m3u8|Referer=https://bdixtv24.site/toffee/
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/63/logo/240x240/mobile_logo_118855001673182388.png" group-title="BANGLADESH", BTV HD
 https://static.jagobd.com.bd/live-orgin/btvbd-office-sg.stream/playlist.m3u8|referer=https://www.jagobd.com
 
