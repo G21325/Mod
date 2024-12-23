@@ -1,18 +1,4 @@
 
-
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="SPORTS",SONY SPORTS TEN 1 HD
-https://bdixtv24.site/toffee/live.php?id=43dcec1011e7&e=.m3u8|Referer=https://bdixtv24.site/toffee/
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="SPORTS",SONY SPORTS TEN 2 HD
-https://bdixtv24.site/toffee/live.php?id=abc6677968ef&e=.m3u8|Referer=https://bdixtv24.site/toffee/
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="SPORTS",SONY SPORTS TEN 3 HD
-https://bdixtv24.site/toffee/live.php?id=edc6a07e4754&e=.m3u8|Referer=https://bdixtv24.site/toffee/
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="SPORTS",SONY SPORTS TEN 5 HD
-https://tamilultratv.co.in/api/jiotv.m3u8?id=815&e=.m3u8|Referer=https://tamilultratv.co.in/?key=thenayeemparvez&User-Agent=Mozilla/5.0 (Linux; Android 14; SM-S911B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.6668.100 Mobile Safari/537.36
-
-
-
-
 #Bangladesi TV
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/208144/logo/240x240/mobile_logo_753607001730650681.png" group-title="LIVE", LIVE EVENT
 https://bdixtv24.site/toffee/live.php?id=3df423bd64aa&e=.m3u8|Referer=https://bdixtv24.site/toffee/
@@ -101,10 +87,10 @@ https://la.drmlive.au/tp/zee-zeebangla.m3u8
 https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8 
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-75-j5fikj0o-v1/imageContent-75-j5fikj0o-m1.png" group-title="KOLKATA", COLORS BANGLA
-https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_voot_MOB
+https://www.its-ferdos-alom.top/jio/live.php?ferdos=1369
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11287-j9j4tl2w-v2/imageContent-11287-j9j4tl2w-m3.png" group-title="KOLKATA", COLORS BANGLA HD
-http://ekdilhai.pro/IN_ColorsBengali/tracks-v1a1/mono.m3u8
+https://www.its-ferdos-alom.top/jio/live.php?ferdos=756
 
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11287-j9j4tl2w-v2/imageContent-11287-j9j4tl2w-m3.png" group-title="KOLKATA", OP,S1|COLORS BANGLA HD
@@ -117,7 +103,7 @@ http://xtv.ooo:8080/live/global/global/245895.m3u8
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11287-j9j4tl2w-v2/imageContent-11287-j9j4tl2w-m3.png" group-title="KOLKATA",DISHTV|COLORS BANGLA HD
 http://217.20.112.199/colorsbangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/CLRBANG_Thumbnail-v6/CLRBANG_Thumbnail.png" group-title="KOLKATA", COLORS BANGLA CINEMA
-https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_Cinema_voot_MOB
+https://www.its-ferdos-alom.top/jio/live.php?ferdos=1657
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11837-j9kzms9s-v2/imageContent-11837-j9kzms9s-m3.png" group-title="KOLKATA", OP,|SUN BANGLA
 http://opplextv.cyou:8080/live/global/global/245906.ts
