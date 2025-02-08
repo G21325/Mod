@@ -1,83 +1,7 @@
-#jadoo
-
-#EXTM3U
-
-#EXTINF:-1 tvg-name="Arirang" tvg-logo="https://edge01.iptv.digijadoo.net/static/arirang.png" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Arirang
-https://www.its-ferdos-alom.top/playlist/jd/m3u8.php?id=arirang&e=m3u8
-
-#EXTINF:-1 tvg-name="BBC Lifestyle" tvg-logo="https://edge01.iptv.digijadoo.net/static/bbc_lifestyle.png" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",BBC Lifestyle
-https://www.its-ferdos-alom.top/playlist/jd/m3u8.php?id=bbc_lifestyle&e=m3u8
-
-#EXTINF:-1 tvg-name="Bangla Vision" tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_vision.png" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Bangla Vision
-https://www.its-ferdos-alom.top/playlist/jd/m3u8.php?id=bangla_vision&e=m3u8
-
-#EXTINF:-1 tvg-name="CBEEBIES Asia" tvg-logo="https://edge01.iptv.digijadoo.net/static/cbeebies_asia.png" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",CBEEBIES Asia
-https://www.its-ferdos-alom.top/playlist/jd/m3u8.php?id=cbeebies_asia&e=m3u8
-
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://edge01.iptv.digijadoo.net/static/cnn.png" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",CNN
-https://www.its-ferdos-alom.top/playlist/jd/m3u8.php?id=cnn&e=m3u8
-
-#EXTINF:-1 tvg-name="Channel 9" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_9.png" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Channel 9
-https://www.its-ferdos-alom.top/playlist/jd/m3u8.php?id=channel_9&e=m3u8
-
-#EXTINF:-1 tvg-name="Channel I" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_i.png" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Channel I
-https://www.its-ferdos-alom.top/playlist/jd/m3u8.php?id=channel_i&e=m3u8
-
-#EXTINF:-1 tvg-name="Deepto TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/deepto_tv.png" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Deepto TV
-https://www.its-ferdos-alom.top/playlist/jd/m3u8.php?id=deepto_tv&e=m3u8
-
-#EXTINF:-1 tvg-name="Desh TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4CfF8DO73YRrwEy8BaKuc769Th5lZI9d5NVCVHoxEPWnGiqHtl35S2PC8&s=10" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Desh TV
-https://www.its-ferdos-alom.top/playlist/jd/m3u8.php?id=desh_tv&e=m3u8
-
-#EXTINF:-1 tvg-name="Duronto TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/duronto_tv.png" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Duronto TV
-https://www.its-ferdos-alom.top/playlist/jd/m3u8.php?id=duronto_tv&e=m3u8
-
-#EXTINF:-1 tvg-name="Gaan Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/gaan_bangla.png" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Gaan Bangla
-#EXTINF:-1 tvg-name="Gazi TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/gazi_tv.png" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Gazi TV
-https://www.its-ferdos-alom.top/playlist/jd/m3u8.php?id=gazi_tv_hd&e=m3u8
-
-#EXTINF:-1 tvg-name="Jamuna TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Jamuna TV
-https://www.its-ferdos-alom.top/playlist/jd/m3u8.php?id=jamuna_tv&e=m3u8
-
-#EXTINF:-1 tvg-name="MACAU Lotus" tvg-logo="https://edge01.iptv.digijadoo.net/static/macau_lotus.png" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",MACAU Lotus
-https://www.its-ferdos-alom.top/playlist/jd/m3u8.php?id=macau_lotus&e=m3u8
-
-#EXTINF:-1 tvg-name="NHK World" tvg-logo="https://edge01.iptv.digijadoo.net/static/nhk_world.png" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",NHK World
-https://www.its-ferdos-alom.top/playlist/jd/m3u8.php?id=nhk_world&e=m3u8
-
-#EXTINF:-1 tvg-name="News 24 HD" tvg-logo="https://edge01.iptv.digijadoo.net/static/news_24_hd.png" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",News 24 HD
-https://www.its-ferdos-alom.top/playlist/jd/m3u8.php?id=news_24_hd&e=m3u8
-
-#EXTINF:-1 tvg-name="RT English" tvg-logo="https://edge01.iptv.digijadoo.net/static/rt_english.png" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",RT English
-https://www.its-ferdos-alom.top/playlist/jd/m3u8.php?id=rtv&e=m3u8
-
-#EXTINF:-1 tvg-name="RTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/rtv.png" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",RTV
-https://www.its-ferdos-alom.top/playlist/jd/m3u8.php?id=rtv&e=m3u8
-
-#EXTINF:-1 tvg-name="Somoy News" tvg-logo="https://edge01.iptv.digijadoo.net/static/somoy_news.png" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Somoy News
-https://www.its-ferdos-alom.top/playlist/jd/m3u8.php?id=somoy_news&e=m3u8
-
-#EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",T Sports HD
-https://www.its-ferdos-alom.top/playlist/jd/m3u8.php?id=t_sports&e=m3u8
-
-#EXTINF:-1 tvg-name="Zee Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkR9B8oQ7I-2MQvDxDrn7iV-nEk13jiwIZjA&usqp=CAU" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Zee Bangla
-https://www.its-ferdos-alom.top/playlist/jd/m3u8.php?id=zee_bangla&e=m3u8
-
-#EXTINF:-1 tvg-name="Zee Cinema" tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_cinema.png" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Zee Cinema
-https://www.its-ferdos-alom.top/playlist/jd/m3u8.php?id=zee_cinema_hd&e=m3u8
-
-#EXTINF:-1 tvg-name="Zee TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_tv.png" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Zee TV
-https://www.its-ferdos-alom.top/playlist/jd/m3u8.php?id=zee_tv&e=m3u8
-
-
-
-
 
 
 
 #Bangladesi TV
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/208144/logo/240x240/mobile_logo_753607001730650681.png" group-title="LIVE", LIVE EVENT
-https://bdixtv24.site/toffee/live.php?id=3df423bd64aa&e=.m3u8|Referer=https://bdixtv24.site/toffee/
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/63/logo/240x240/mobile_logo_118855001673182388.png" group-title="BANGLADESH", BTV HD
 https://static.jagobd.com.bd/live-orgin/btvbd-office-sg.stream/playlist.m3u8|referer=https://www.jagobd.com
 
@@ -110,13 +34,7 @@ https://static.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/playlist
 https://static.jagobd.com.bd/live-orgin/independent-8-org.stream/playlist.m3u8|referer=https://www.jagobd.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g4jPX7R/20240826-230429.png" group-title="BANGLADESH", WEB|MAASRANGA TV HD
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/g4jPX7R/20240826-230429.png" group-title="BANGLADESH", MAASRANGA TV HD
-http://xtv.ooo:8080/live/98267/02727/245904.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/9/logo/240x240/mobile_logo_363996001656610763.png" group-title="BANGLADESH", CHANNEL 9 HD
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/52/logo/240x240/mobile_logo_262737001655890931.png" group-title="BANGLADESH", CHANNEL 24 HD
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@channel24digital
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png" group-title="BANGLADESH", EKATTOR TV HD
 https://static.jagobd.com.bd/live-orgin/ekattor.stream/playlist.m3u8|referer=https://www.jagobd.com
